@@ -1,0 +1,81 @@
+
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  filesize(): stat failed for /home/obar.info/public_html/downloads/60ae4be8421873a1568b45a4/python-for-devops-learn-ruthlessly-effective-automation-original-retailnbsped-149205769x-978-1492057697.pdf</p>
+<p>Filename: controllers/Pdftool.php</p>
+<p>Line Number: 399</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/obar.info/public_html/application/controllers/Pdftool.php<br />
+			Line: 399<br />
+			Function: filesize			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/obar.info/public_html/index.php<br />
+			Line: 321<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Warning</p>
+<p>Message:  readfile(/home/obar.info/public_html/downloads/60ae4be8421873a1568b45a4/python-for-devops-learn-ruthlessly-effective-automation-original-retailnbsped-149205769x-978-1492057697.pdf): failed to open stream: No such file or directory</p>
+<p>Filename: controllers/Pdftool.php</p>
+<p>Line Number: 402</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/obar.info/public_html/application/controllers/Pdftool.php<br />
+			Line: 402<br />
+			Function: readfile			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/obar.info/public_html/index.php<br />
+			Line: 321<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>
