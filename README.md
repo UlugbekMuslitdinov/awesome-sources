@@ -22,9 +22,11 @@ It is suitable for everyone who is finding sources to make their coding live eas
 * **[Python](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/backend/python)**
 * **[Ansible](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/backend/ansible)**
 * **[GoLang](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/backend/Golang)**
+* **[Docker](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/backend/Docker)**
 ## Deploy:
 * **[Heroku](https://heroku.com/)**
 * **[Digital Ocean](https://cloud.digitalocean.com/)**
+* **[Netlify](https://www.netlify.com/)**
 
 
 
