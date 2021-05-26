@@ -5,6 +5,9 @@
 It is suitable for everyone who is finding sources to make their coding live easier. Also everyone, who wants to share something interesting and practical, is welcome to make pull request to this repository and share it with the rest of GitHub community.
 
 # :notebook: Frontender's list
+
+## Programming and Markup Languages and Tools:
+* **[React](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/frontend/React)**
 ## Design:
 * **[Flaarp](https://www.ls.graphics/illustrations/flaarp)** - Beautiful and funny startup illustrations in the most popular UI subjects.
 * **[Shapefest](https://www.shapefest.com/expansions/isometric-clay-icons)** - Isometric clay 3D icons
@@ -15,6 +18,10 @@ It is suitable for everyone who is finding sources to make their coding live eas
 
 # Backender's list:
 
+## Programming Languages and Tools:
+* **[Python](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/backend/python)**
+* **[Ansible](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/backend/ansible)**
+* **[GoLang](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/backend/Golang)**
 ## Deploy:
 * **[Heroku](https://heroku.com/)**
 * **[Digital Ocean](https://cloud.digitalocean.com/)**
