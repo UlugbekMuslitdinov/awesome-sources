@@ -28,6 +28,8 @@ It is suitable for everyone who is finding sources to make their coding live eas
 * **[Digital Ocean](https://cloud.digitalocean.com/)**
 * **[Netlify](https://www.netlify.com/)**
 
+## Useful Tools:
+* **[Codacy](https://www.codacy.com/)** - Code review automatization servise.
 
 
 
