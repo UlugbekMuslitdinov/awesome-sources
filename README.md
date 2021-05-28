@@ -8,6 +8,11 @@ It is suitable for everyone who is finding sources to make their coding live eas
 
 ## Programming and Markup Languages and Tools:
 * **[React](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/frontend/React)**
+* **[Python](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/backend/python)**
+* **[Ansible](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/backend/ansible)**
+* **[GoLang](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/backend/Golang)**
+* **[Docker](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/backend/Docker)**
+
 ## Design:
 * **[Flaarp](https://www.ls.graphics/illustrations/flaarp)** - Beautiful and funny startup illustrations in the most popular UI subjects.
 * **[Shapefest](https://www.shapefest.com/expansions/isometric-clay-icons)** - Isometric clay 3D icons
@@ -15,14 +20,6 @@ It is suitable for everyone who is finding sources to make their coding live eas
 * **[Craftwork](https://craftwork.design/)** - Interface assets for designers and startup creatives
 * **[Shape.so](https://shape.so/)** - fully customizable icons and illustrations
 
-
-# Backender's list:
-
-## Programming Languages and Tools:
-* **[Python](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/backend/python)**
-* **[Ansible](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/backend/ansible)**
-* **[GoLang](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/backend/Golang)**
-* **[Docker](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/backend/Docker)**
 ## Deploy:
 * **[Heroku](https://heroku.com/)**
 * **[Digital Ocean](https://cloud.digitalocean.com/)**
