@@ -1,3 +1,3 @@
 # GoLang:
 ## Books:
-* **[Learning Go]()**
+* **[Learning Go](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Golang/Learning-Go-latest.pdf)**
