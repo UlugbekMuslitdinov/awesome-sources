@@ -13,7 +13,7 @@
 
 * **[CSS: Pocket Reference](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/CSS/CSS%20Pocket%20Reference%2C%205th%20Edition_.pdf)** - When you’re working with CSS and need a quick answer, CSS Pocket Reference delivers. This handy, concise book provides all of the essential information you need to implement CSS on the fly.
 
-* **[CSS Mastery: Advanced Web Standards Solutions]()** is your indispensable guide to cutting-edge CSS development―this book demystifies the secrets of CSS.
+* **[CSS Mastery: Advanced Web Standards Solutions](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/CSS/CSS%20Mastery%20Advanced%20Web%20Standards%20Solutions%20Feb%202006.pdf)** is your indispensable guide to cutting-edge CSS development―this book demystifies the secrets of CSS.
 
 
 ## Useful Tools:

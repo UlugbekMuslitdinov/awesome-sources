@@ -13,7 +13,8 @@ time.
 general.
 * **[Fluent Python](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Fluent%20Python.pdf)** is amazing and provides a deep understanding of the Python
 language
-
+* **[Learning Python]()** - Get a comprehensive, in-depth introduction to the core Python language with this hands-on book.
+* **[Python Cookbook]()** - If you need help writing programs in Python 3, or want to update older Python 2 code, this book is just the ticket.
 
 ## Web sites:
 * **[Python official](https://python.org/)**
