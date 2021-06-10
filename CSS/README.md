@@ -5,11 +5,15 @@
 
 * **[CSS Secrets](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/CSS/CSS_Secrets.pdf)** - In this practical guide, CSS expert Lea Verou provides 47 undocumented techniques and tips to help intermediate-to advanced CSS developers devise elegant solutions to a wide range of everyday web design problems.
 
-* **[CSS Visual Dictionary]()** - Visual speed-learners will get the most out of this book. Here, literally almost all CSS properties that can be browser-rendered are shown using visual diagrams.
+* **[CSS Visual Dictionary](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/CSS/css-visual-dictionary.pdf)** - Visual speed-learners will get the most out of this book. Here, literally almost all CSS properties that can be browser-rendered are shown using visual diagrams.
 
-* **[CSS: The Missing Manual]()** - CSS lets you create professional-looking websites, but learning its finer points can be tricky — even for seasoned web developers.
+* **[CSS: The Missing Manual](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/CSS/css3_the_missing_manual_3rd_edition.pdf)** - CSS lets you create professional-looking websites, but learning its finer points can be tricky — even for seasoned web developers.
 
-* **[The Book of CSS3: A Developer’s Guide to the Future of Web Design]()**
+* **[The Book of CSS3: A Developer’s Guide to the Future of Web Design]()** - This completely updated second edition of the best-selling Book of CSS3 distills the dense technical language of the CSS3 specification into plain English and shows you what CSS3 can do now, in all major browsers.
+
+* **[CSS: Pocket Reference]()** - When you’re working with CSS and need a quick answer, CSS Pocket Reference delivers. This handy, concise book provides all of the essential information you need to implement CSS on the fly.
+
+* **[]()**
 
 ## Useful Tools:
 * **[CSS Layout](https://csslayout.io)** is a huge library of CSS Grid templates
