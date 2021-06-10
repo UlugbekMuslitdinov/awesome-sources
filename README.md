@@ -9,6 +9,7 @@ It is suitable for everyone who is finding sources to make their coding live eas
 
 ## Programming and Markup Languages and Tools:
 * **[Ansible](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Ansible)**
+* **[CSS](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/CSS)**
 * **[Docker](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Docker)**
 * **[GoLang](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Golang)**
 * **[Kubernetes](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Kubernetes)**
@@ -29,6 +30,14 @@ It is suitable for everyone who is finding sources to make their coding live eas
 * **[GitHub Pages]()**
 * **[Heroku](https://heroku.com/)**
 * **[Netlify](https://www.netlify.com/)**
+
+## Where to learn programming:
+* **[w3schools](https://www.w3schools.com/)** is great source to learn programming and train. Includes tutorials for programming languages, markup languages, their libraries and frameworks and some useful tools, such as GIT and SQL.
+
+* **[Sololearn](https://www.sololearn.com/)** - Learn coding, compete with other coders, achieve awards and publish them on LinkedIn.
+
+* **[]()**
+
 
 ## Useful Tools:
 * **[Codacy](https://www.codacy.com/)** - Code review automatization servise.
