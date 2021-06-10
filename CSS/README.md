@@ -9,11 +9,12 @@
 
 * **[CSS: The Missing Manual](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/CSS/css3_the_missing_manual_3rd_edition.pdf)** - CSS lets you create professional-looking websites, but learning its finer points can be tricky — even for seasoned web developers.
 
-* **[The Book of CSS3: A Developer’s Guide to the Future of Web Design]()** - This completely updated second edition of the best-selling Book of CSS3 distills the dense technical language of the CSS3 specification into plain English and shows you what CSS3 can do now, in all major browsers.
+* **[The Book of CSS3: A Developer’s Guide to the Future of Web Design](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/CSS/CSS3_A_Developers_Guide_To_The_Future_Of_Web_Design.pdf)** - This completely updated second edition of the best-selling Book of CSS3 distills the dense technical language of the CSS3 specification into plain English and shows you what CSS3 can do now, in all major browsers.
 
-* **[CSS: Pocket Reference]()** - When you’re working with CSS and need a quick answer, CSS Pocket Reference delivers. This handy, concise book provides all of the essential information you need to implement CSS on the fly.
+* **[CSS: Pocket Reference](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/CSS/CSS%20Pocket%20Reference%2C%205th%20Edition_.pdf)** - When you’re working with CSS and need a quick answer, CSS Pocket Reference delivers. This handy, concise book provides all of the essential information you need to implement CSS on the fly.
 
-* **[]()**
+* **[CSS Mastery: Advanced Web Standards Solutions]()** is your indispensable guide to cutting-edge CSS development―this book demystifies the secrets of CSS.
+
 
 ## Useful Tools:
 * **[CSS Layout](https://csslayout.io)** is a huge library of CSS Grid templates
