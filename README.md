@@ -9,14 +9,16 @@ It is suitable for everyone who is finding sources to make their coding live eas
 
 ## Programming and Markup Languages and Tools:
 * **[Ansible](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Ansible)**
-* **[Apache Maven]()** 
-* **[Arduino]()**
+* **[Apache Maven](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Maven)** 
+* **[Arduino](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Arduino)**
 * **[CSS](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/CSS)**
 * **[Docker](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Docker)**
 * **[GoLang](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Golang)**
 * **[JavaScript](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript)**
+  * **[React](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript/React)**
 * **[Kubernetes](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Kubernetes)**
 * **[Python](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Python)**
+  * **[Django](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Python/Django)**
 * **[Swift](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Swift)**
 * **[Terraform](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Terraform)**
 
@@ -39,7 +41,6 @@ It is suitable for everyone who is finding sources to make their coding live eas
 
 * **[Sololearn](https://www.sololearn.com/)** - Learn coding, compete with other coders, achieve awards and publish them on LinkedIn.
 
-* **[]()**
 
 
 ## Useful Tools:
