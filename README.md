@@ -5,14 +5,13 @@
 ## For whom it is?
 It is suitable for everyone who is finding sources to make their coding live easier. Also everyone, who wants to share something interesting and practical, is welcome to make pull request to this repository and share it with the rest of GitHub community.
 
-# :notebook: Frontender's list
-
 ## Programming and Markup Languages and Tools:
 * **[Ansible](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Ansible)**
 * **[Apache Maven](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Maven)** 
 * **[Arduino](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Arduino)**
 * **[CSS](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/CSS)**
-* **[Docker](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Docker)**
+* **[Docker](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Docker)** 
+* **[Git]()**
 * **[GoLang](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Golang)**
 * **[JavaScript](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript)**
   * **[React](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript/React)**
