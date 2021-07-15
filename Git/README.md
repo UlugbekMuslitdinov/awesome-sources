@@ -1,16 +1,16 @@
 # Git
 
 ## Books
-* **[Git in the Trenches]()**
-* **[Git Internals]()** by Scott Chacon
-* **[Git Notes for Professionals]()**
-* **[Git Pocket Guide]()** by Richard Silverman
-* **[Git Succinctly]()** by Ryan Hodson
+* **[Git in the Trenches](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Git/GitInTheTrenches.pdf)**
+* **[Git Internals](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Git/GitInternals.pdf)** by Scott Chacon
+* **[Git Notes for Professionals](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Git/GitNotesForProfessionals.pdf)**
+* **[Git Pocket Guide](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Git/Git%20Pocket%20Guide%20-%20Silverman%2C%20Richard%20E._5525.pdf)** by Richard Silverman
+* **[Git Succinctly](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Git/GIT_Succinctly.pdf)** by Ryan Hodson
 * **[A Guide to Git and Github](https://launchschool.com/books/git)** by Launch School
-* **[Introduction To Git]()** by Chris Bourke
+* **[Introduction To Git](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Git/IntroductionToGit.pdf)** by Chris Bourke
 * **[Introduction To Git and GitHub - Ebook](https://github.com/bobbyiliev/introduction-to-git-and-github-ebook)** by Bobbie Iliev
 * **[Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/)** by Git Tower
-* **[Pro Git]()** - Official Git Book
+* **[Pro Git](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Git/progit.pdf)** - Official Git Book
 
 
 ## Web sites

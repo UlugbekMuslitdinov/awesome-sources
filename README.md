@@ -11,7 +11,7 @@ It is suitable for everyone who is finding sources to make their coding live eas
 * **[Arduino](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Arduino)**
 * **[CSS](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/CSS)**
 * **[Docker](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Docker)** 
-* **[Git]()**
+* **[Git](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Git)**
 * **[GoLang](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Golang)**
 * **[JavaScript](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript)**
   * **[React](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript/React)**
@@ -31,7 +31,7 @@ It is suitable for everyone who is finding sources to make their coding live eas
 
 ## Deploy:
 * **[Digital Ocean](https://cloud.digitalocean.com/)**
-* **[GitHub Pages]()**
+* **[GitHub Pages](https://pages.github.com/)**
 * **[Heroku](https://heroku.com/)**
 * **[Netlify](https://www.netlify.com/)**
 
