@@ -1,4 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/UlugbekMuslitdinov/awesome-sources?label=size%20of%20all%20books&logo=github&style=for-the-badge)
+
+![Logo](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/temp/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1.png)
 # Hi everyone
 
 ### It is the list of awesome sources, such as books :green_book:, links :link:, github repos :octocat: and etc., that can be found useful in every developer's day :computer:.
