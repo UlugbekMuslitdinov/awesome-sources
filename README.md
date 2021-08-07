@@ -17,6 +17,7 @@ It is suitable for everyone who is finding sources to make their coding live eas
 * **[Git](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Git)**
 * **[GoLang](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Golang)**
 * **[JavaScript](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript)**
+  * **[Node.js](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript/Node.js)**
   * **[React](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript/React)**
 * **[Kubernetes](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Kubernetes)**
 * **[Python](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Python)**
