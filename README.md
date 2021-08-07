@@ -37,11 +37,58 @@ It is suitable for everyone who is finding sources to make their coding live eas
 * **[Netlify](https://www.netlify.com/)**
 
 ## Where to learn programming:
-* **[w3schools](https://www.w3schools.com/)** is great source to learn programming and train. Includes tutorials for programming languages, markup languages, their libraries and frameworks and some useful tools, such as GIT and SQL.
+
+* **[Codecademy](https://www.codecademy.com/)**
+
+* **[CodeMentor](https://www.codementor.io/)** - Find a developer for live mentorship & freelance projects
+
+* **[CodeWell](https://www.codewell.cc/)** - Improve your HTML and CSS skills by practicing on real design templates.
+
+* **[Coursera](https://www.coursera.org/)** - Learn without limitations.
+
+* **[edX](https://www.edx.org/)**
+
+* **[FreeCodeCamp](https://www.freecodecamp.org/)** - Learn to code for free.
+
+* **[Frontend Mentor](https://www.frontendmentor.io/)** - Improve your front-end coding skills by building real projects
+
+
+* **[GeeksForGeeks](https://www.geeksforgeeks.org/)**
+
+* **[Khan Academy](https://www.khanacademy.org/)**
 
 * **[Sololearn](https://www.sololearn.com/)** - Learn coding, compete with other coders, achieve awards and publish them on LinkedIn.
 
+* **[Treehouse](https://teamtreehouse.com/)** - Learn to code, design, and more—all on your own time
 
+* **[Udemy](https://www.udemy.com/)**
+
+* **[Upskill](https://upskillcourses.com/)**
+
+* **[w3schools](https://www.w3schools.com/)** is great source to learn programming and train. Includes tutorials for programming languages, markup languages, their libraries and frameworks and some useful tools, such as GIT and SQL.
+
+
+## Coding Challenges: 
+
+* **[CoderByte](https://coderbyte.com/)** - It provides 200+ coding challenges, ranging from easy to hard, that you can solve directly online in one of 10 programming languages.
+
+* **[CodeChef](https://www.codechef.com/)** - It's a competitive programming website with hundreds of challenges that are separated into categories depending on your skill level.
+
+* **[CodePen Challenges](https://codepen.io/challenges)**
+
+* **[CodeWars](https://www.codewars.com/)** - It has a large collection of challenges, submitted and edited by their own community, the discussion and solution of which could be reviewed.
+
+* **[CSS Battle](https://cssbattle.dev/)** - Use your CSS skills to replicate targets with smallest possible code. Feel free to check out the targets below and put your CSS skills to test.
+
+* **[Exercism](https://exercism.io/)** - It offers 3100+ challenges spanning 52 programming languages. It is a bit different from others because a mentor reviews your work after each challenge.
+
+* **[HackerRank](https://www.hackerrank.com/)** - It provides challenges for several different domains. Every challenge includes a discussion, leaderboard, and an explanation of the given task.
+
+* **[JavaScript30](https://javascript30.com/)** - 30-day vanilla JS coding challenge
+
+* **[Project Euler](https://projecteuler.net/)** - It provides a large collection of CS and math challenges that typically involve writing a small program to figure out the solution.
+
+* **[TopCoder](https://www.topcoder.com/)** - It provides a list of algorithmic challenges from the past that you can complete on your own directly online using their code editor.
 
 ## Useful Tools:
 * **[Codacy](https://www.codacy.com/)** - Code review automatization servise.
