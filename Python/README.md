@@ -15,12 +15,14 @@ language
 * **[Python Crash Course 2nd Edition](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Python_Crash_Course_2nd_Edition.pdf)** is a fantastic introduction to Python that also walks you
 * **[Python Data Science -- Tim WIred](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Python%20Data%20Science.%20Learn%20the%20Ethics.pdf)**
 through three real-world projects, including a Django application.
-* **[Python End-to-end Data Analysis]()**
+* **[Python Digital Forensics -- ]()**
+* **[Python End-to-end Data Analysis -- Martin Dzigan](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Python_End_to_end_Data_Analysis_Leveraging_the_power_of_Python_to.pdf)**
 * **[Python Feature Engineering Cookbook](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Python-Feature-Engineering-Cookbook.pdf)**
 * **[Python for Data Analysis -- Oliver Simpson](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Python%20for%20Data%20Analysis.%20A%20Basic%20Guide.pdf)**
 * **[Python for DevOps](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/python-for-devops-learn-ruthlessly-effective-automation-original-retailnbsped-149205769x-978-1492057697.pdf)**
 * **[Python Fundamentals -- Ryan Marvin](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Python%20Fundamentals.pdf)**
 * **[Python Tricks](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/python-tricks.pdf)** demonstrates how to write Pythonic code.
+* **[Software Architecture with Python -- Anand Balachandran Pillai]()**
 * **[The Python Tutorial](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/python-tutorial-27.pdf)**
 * **[Think Python](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Think_Python_2nd_Edition.pdf)** introduces Python and computer science fundamentals at the same
 time.
