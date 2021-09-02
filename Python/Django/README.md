@@ -6,6 +6,7 @@
 * **[Django for beginners -- W.Vincent](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Django/Django%20for%20Beginners%20by%20William%20S.%20Vincent%20(z-lib.org).pdf)**
 * **[Django for APIs -- W.Vincent](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Django/Django%20for%20APIs%20Build%20Web%20APIs%20with%20Python%20%20Django%20by%20William%20S.%20Vincent%20(z-lib.org).pdf)**
 * **[Django for professionals -- W.Vincent](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Django/Django%20for%20Professionals%20Production%20Websites%20with%20Python%20%20Django%20by%20William%20S.%20Vincent%20(z-lib.org).pdf)**
+* **[Django - Web Development with Python -- Samuel Dauzon](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Django/Django%20-%20Web%20Development%20with%20Python.pdf)**
 
 ## Links
 * **[Django official website](https://www.djangoproject.com/)**
