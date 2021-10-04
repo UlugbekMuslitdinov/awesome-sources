@@ -1,6 +1,16 @@
 # Java
 ### **High-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.**
 ___
+## Content:
+
+* [Books](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Java#books)
+
+* [Certifications](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Java#certifications)
+
+* [Courses](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Java#courses)
+
+* [Useful Links](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Java#useful-links)
+___
 ## Books:
 
 * **[Clean Code – A Handbook of Agile Software Craftsmanship](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Java/Clean_Code.pdf)** (Robert Cecil Martin, a.k.a. Uncle Bob)  is a classic Java programming book that imparts the knowledge of writing better code to its readers.
@@ -35,12 +45,19 @@ ___
 
 ___
 
-## Useful Links:
+## Certifications:
 
-* **[Java Official Website](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi07p362K7zAhXEFXcKHZoJAQsQFnoECAIQAQ&url=https%3A%2F%2Fwww.java.com%2F&usg=AOvVaw07au0gJtrW9kRPFYV_4HTb)**
+* **[Oracle Java Certifications](https://education.oracle.com/oracle-certified-professional-java-se-8-programmer/trackp_357)** - Adding the best Java certification to your resume will surely impress the employer. A Java certification assures the employer that the candidate has the specified level of Java expertise and knowledge depending on the type of certification they possess.
+
+* **[Oracle Certified Associate Java Programmer (OCAJP) [Java SE 8 Programmer I]](https://education.oracle.com/java-and-dev-tech/java-se/product_267)** - This is the most basic Java certification offered by Oracle. It covers the fundamental concepts of Java programming. OCAJP helps in building a foundational understanding of Java and expanding the knowledge of general programming.
+
+* **[Oracle Certified Associate Java Programmer (OCAJP) [Java SE 11 Programmer I]](https://education.oracle.com/java-se-11-developer/pexam_1Z0-819)** - This is a similar certification as that of the mentioned above. However, this one is for Java Standard Edition 11.
+
+* **[Oracle Certified Professional Java Programmer (OCPJP) [Java SE 8 Programmer II]](https://education.oracle.com/java-se-8-programmer-ii/pexam_1Z0-809)** is a professional-level certification. It validates the candidate’s knowledge and expertise of Java code development in Java SE 8. This certification is best for those having professional experience with Java.
+
+* **[Oracle Certified Professional Java Application Developer (OCPJAD)](https://education.oracle.com/oracle-certified-professional-java-se-8-programmer/trackp_357)** validates a candidate’s ability to develop as well as deploy applications using the Java Enterprise Edition 7.
 
 ___
-
 ## Courses:
 
 * **[Java Fundamentals: The Java Language](https://pluralsight.pxf.io/Eayd62)** (Pluralsight) - Jim Wilson who is a software engineer and has more than thirty years of experience in this field takes the class and delivers valuable knowledge to the attendees. This course covers the basics of Java, Class, Files, error handling, data types, object, and other core Java concepts.
@@ -54,3 +71,11 @@ ___
 * **[Java Programming: Solving Problems with Software](https://click.linksynergy.com/deeplink?id=Qouy7GhEEFU&mid=40328&murl=https://www.coursera.org/learn/java-programming)** (Coursera) - This program is ideal for the expert level and intermediate attendees who are looking for improving their skills in problem-solving in Java language. Also, this program intends to deliver knowledge on design algorithms as well as develop and debug programs accordingly.
 
 * **[Object Oriented Programming in Java](https://click.linksynergy.com/deeplink?id=Qouy7GhEEFU&mid=40328&murl=https://www.coursera.org/learn/object-oriented-java)** (Coursera) - Coursera has introduced this new course specifically for intermediate to expert level attendees. This program is for those software developers who have experience in programming languages such as Python, C, JavaScript, and more.
+
+___
+
+## Useful Links:
+
+* **[Java Official Website](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi07p362K7zAhXEFXcKHZoJAQsQFnoECAIQAQ&url=https%3A%2F%2Fwww.java.com%2F&usg=AOvVaw07au0gJtrW9kRPFYV_4HTb)**
+
+* **[Awesome Java](https://github.com/akullpp/awesome-java#readme)**
