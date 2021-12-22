@@ -6,8 +6,10 @@
 * **[Django for beginners -- W.Vincent](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Django/Django%20for%20Beginners%20by%20William%20S.%20Vincent%20(z-lib.org).pdf)**
 * **[Django for APIs -- W.Vincent](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Django/Django%20for%20APIs%20Build%20Web%20APIs%20with%20Python%20%20Django%20by%20William%20S.%20Vincent%20(z-lib.org).pdf)**
 * **[Django for professionals -- W.Vincent](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Django/Django%20for%20Professionals%20Production%20Websites%20with%20Python%20%20Django%20by%20William%20S.%20Vincent%20(z-lib.org).pdf)**
-* **[Django Tutorials Point]()**
+* **[Django Tutorials Point](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Django/Download%20Django%20Tutorial.pdf)**
 * **[Django - Web Development with Python -- Samuel Dauzon](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Django/Django%20-%20Web%20Development%20with%20Python.pdf)**
+* **[High-performance Django](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Django/high-performance-django.pdf)** -- Peter Baumgartner and Yann Malet
+* **[Lightweight Django](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Django/Lightweight%20Django_%20Using%20REST%2C%20Websockets%20%26%20Backbone%20%5BElman%20%26%20Lavin%202014-11-13%5D.pdf)** -- Julia Elman & Mark Lavin 
 
 ## Links
 * **[Django official website](https://www.djangoproject.com/)**
