@@ -1,7 +1,10 @@
 # Java
-### **High-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.**
+
+**High-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.**
+
 ___
-## Content:
+
+## Content
 
 * [Books](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Java#books)
 
@@ -10,18 +13,20 @@ ___
 * [Courses](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Java#courses)
 
 * [Useful Links](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Java#useful-links)
+
 ___
-## Books:
+
+## Books
 
 * **[Clean Code – A Handbook of Agile Software Craftsmanship](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Java/Clean_Code.pdf)** (Robert Cecil Martin, a.k.a. Uncle Bob)  is a classic Java programming book that imparts the knowledge of writing better code to its readers.
 
 * **Core Java** (Cay S. Horstmann) - Couple of Books to master Java from scratch:
-    * [Volume 1 - Fundamentals](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Java/Core.Java.Volume.I.Fundamentals.11th.Edition.pdf)
+  * [Volume 1 - Fundamentals](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Java/Core.Java.Volume.I.Fundamentals.11th.Edition.pdf)
     * [Volume 2 - Advanced Features](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Java/Core.Java.Volume.II.Advanced.Features.11th.Edition.pdf)
 
 * **[Core Java SE 9 (Second Edition)](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Java/Core_Java_SE_9_for_the_Impatient_(2nd%20Edition).pdf)** (Cay S. Horstmann) - It covers all vital material of the Java programming language, but it's presented in small chunks organized for quick access and easy understanding.
 
-* **[Effective Java (3rd Edition)](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Java/Joshua%20Bloch-Effective_Java_(3rd)-2018.pdf)** (Joshua Bloch) - A must-have book for every Java programmer and Java aspirant, Effective Java makes up for an excellent complementary read with other Java books or learning material.
+* **[Effective Java (3rd Edition)](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Java/effective-java-3rd-edition.pdf)** (Joshua Bloch) - A must-have book for every Java programmer and Java aspirant, Effective Java makes up for an excellent complementary read with other Java books or learning material.
 
 * **[Head First Design Patterns](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Java/head-first-design-patterns.pdf)** (Eric Freeman & Elisabeth Robson with Kathy Sierra & Bert Bates) is one of the leading books to build that particular understanding of the Java programming language.
 
@@ -34,8 +39,8 @@ ___
 * **[Java Concurrency In Practice](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Java/Java_Concurrency_in_Practice.pdf)** (Brian Goetz with Tim Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, and Doug Lea) is one of the best Java programming books to develop a rich understanding of concurrency and multithreading. Don’t be fooled by the book’s coverage of Java 5.0, as it is still relevant and essential for any ardent Java developer.
 
 * **Java - How to Program (10th Edition)** (Paul Deitel, Harvey Deitel)
-    * **[Early Objects]()**
-    * **[Late Objects]()**
+  * **[Early Objects](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Java/Java%20How%20To%20Program(Early%20Objects)%20(10th%20Edition).pdf)**
+  * **[Late Objects](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Java/Java%20how%20to%20program.10th%20Late%20objects.pdf)**
 
 * **[Java Performance: The Definite Guide](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Java/Java_Performance-The_Definitive_Guide.pdf)** (Scott Oaks) covers all three of these Java topics in a simple yet effective manner.
 
@@ -45,7 +50,7 @@ ___
 
 ___
 
-## Certifications:
+## Certifications
 
 * **[Oracle Java Certifications](https://education.oracle.com/oracle-certified-professional-java-se-8-programmer/trackp_357)** - Adding the best Java certification to your resume will surely impress the employer. A Java certification assures the employer that the candidate has the specified level of Java expertise and knowledge depending on the type of certification they possess.
 
@@ -58,7 +63,8 @@ ___
 * **[Oracle Certified Professional Java Application Developer (OCPJAD)](https://education.oracle.com/oracle-certified-professional-java-se-8-programmer/trackp_357)** validates a candidate’s ability to develop as well as deploy applications using the Java Enterprise Edition 7.
 
 ___
-## Courses:
+
+## Courses
 
 * **[Java Fundamentals: The Java Language](https://pluralsight.pxf.io/Eayd62)** (Pluralsight) - Jim Wilson who is a software engineer and has more than thirty years of experience in this field takes the class and delivers valuable knowledge to the attendees. This course covers the basics of Java, Class, Files, error handling, data types, object, and other core Java concepts.
 
@@ -74,7 +80,7 @@ ___
 
 ___
 
-## Useful Links:
+## Useful Links
 
 * **[Java Official Website](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi07p362K7zAhXEFXcKHZoJAQsQFnoECAIQAQ&url=https%3A%2F%2Fwww.java.com%2F&usg=AOvVaw07au0gJtrW9kRPFYV_4HTb)**
 

@@ -1,20 +1,24 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/UlugbekMuslitdinov/awesome-sources?label=size%20of%20all%20books&logo=github&style=for-the-badge)
+# ![GitHub repo size](https://img.shields.io/github/repo-size/UlugbekMuslitdinov/awesome-sources?label=size%20of%20all%20books&logo=github&style=for-the-badge)
 
 ![Logo](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/temp/%D0%91%D0%B5%D0%B7%20%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-1.png)
-# Hi everyone
 
-### It is the list of awesome sources, such as books :green_book:, links :link:, github repos :octocat: and etc., that can be found useful in every developer's day :computer:.
+## Hi everyone
+
+## It is the list of awesome sources, such as books :green_book:, links :link:, github repos :octocat: and etc., that can be found useful in every developer's day :computer
 
 ## For whom it is?
+
 It is suitable for everyone who is finding sources to make their coding live easier. Also everyone, who wants to share something interesting and practical, is welcome to make pull request to this repository and share it with the rest of GitHub community.
 
-## Programming and Markup Languages and Tools:
+## Programming and Markup Languages and Tools
+
+* **[Android](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Android)**
 * **[Ansible](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Ansible)**
-* **[Apache Maven](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Maven)** 
+* **[Apache Maven](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Maven)**
 * **[Arduino](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Arduino)**
 * **[C++](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/C%2B%2B)**
 * **[CSS](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/CSS)**
-* **[Docker](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Docker)** 
+* **[Docker](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Docker)**
 * **[Git](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Git)**
 * **[GoLang](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Golang)**
 * **[JavaScript](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript)**
@@ -27,21 +31,22 @@ It is suitable for everyone who is finding sources to make their coding live eas
 * **[Swift](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Swift)**
 * **[Terraform](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Terraform)**
 
-## Design:
+## Design
+
 * **[Craftwork](https://craftwork.design/)** - Interface assets for designers and startup creatives
 * **[Flaarp](https://www.ls.graphics/illustrations/flaarp)** - Beautiful and funny startup illustrations in the most popular UI subjects.
 * **[Iconscout](https://iconscout.com/illustration-pack/indian-doodle)** - Indian Doodle Illustration Pack
 * **[Shape.so](https://shape.so/)** - fully customizable icons and illustrations
 * **[Shapefest](https://www.shapefest.com/expansions/isometric-clay-icons)** - Isometric clay 3D icons
 
+## Deploy
 
-## Deploy:
 * **[Digital Ocean](https://cloud.digitalocean.com/)**
 * **[GitHub Pages](https://pages.github.com/)**
 * **[Heroku](https://heroku.com/)**
 * **[Netlify](https://www.netlify.com/)**
 
-## Where to learn programming:
+## Where to learn programming
 
 * **[Codecademy](https://www.codecademy.com/)**
 
@@ -57,7 +62,6 @@ It is suitable for everyone who is finding sources to make their coding live eas
 
 * **[Frontend Mentor](https://www.frontendmentor.io/)** - Improve your front-end coding skills by building real projects
 
-
 * **[GeeksForGeeks](https://www.geeksforgeeks.org/)**
 
 * **[Khan Academy](https://www.khanacademy.org/)**
@@ -72,8 +76,7 @@ It is suitable for everyone who is finding sources to make their coding live eas
 
 * **[w3schools](https://www.w3schools.com/)** is great source to learn programming and train. Includes tutorials for programming languages, markup languages, their libraries and frameworks and some useful tools, such as GIT and SQL.
 
-
-## Coding Challenges: 
+## Coding Challenges
 
 * **[CoderByte](https://coderbyte.com/)** - It provides 200+ coding challenges, ranging from easy to hard, that you can solve directly online in one of 10 programming languages.
 
@@ -95,6 +98,7 @@ It is suitable for everyone who is finding sources to make their coding live eas
 
 * **[TopCoder](https://www.topcoder.com/)** - It provides a list of algorithmic challenges from the past that you can complete on your own directly online using their code editor.
 
-## Useful Tools:
+## Useful Tools
+
 * **[Codacy](https://www.codacy.com/)** - Code review automatization servise.
 * **[Testcollab](https://testcollab.com/)** - Test management tool to help development teams carry out testing effectively and avoid failures.
