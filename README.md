@@ -67,6 +67,8 @@ It is suitable for everyone who is finding sources to make their coding live eas
 * **[Khan Academy](https://www.khanacademy.org/)**
 
 * **[Sololearn](https://www.sololearn.com/)** - Learn coding, compete with other coders, achieve awards and publish them on LinkedIn.
+  
+* **[SQL Island](https://sql-island.informatik.uni-kl.de/)** - Learn SQL by playing the game
 
 * **[Treehouse](https://teamtreehouse.com/)** - Learn to code, design, and more—all on your own time
 
