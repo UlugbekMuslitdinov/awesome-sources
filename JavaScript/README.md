@@ -2,9 +2,10 @@
 
 ## Contents
 
-* [Books]()
-* [Courses]()
-* [Libraries and Frameworks]()
+* [Books](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript#books)
+* [Courses](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript#courses)
+* [GitHub Repos]()
+* [Libraries and Frameworks](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript#libraries-and-frameworks)
 
 ## Books
 
@@ -50,7 +51,12 @@
 * **[JavaScript Fundamentals](https://www.pluralsight.com/courses/javascript-fundamentals?clickid=R6cV3G3YcxyIRFMTIAS19RttUkG1M1w9gzBXyQ0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius)** (Pluralsight) -- In this course, JavaScript Fundamentals, you'll learn everything you need to know to produce production-quality web applications and web page features.
 * **[Introduction to JavaScript [FREE Codecademy Course]](https://www.codecademy.com/learn/introduction-to-javascript?utm_source=pepperjam&utm_medium=affiliate&utm_term=214453&clickId=3828722781&pj_creativeid=8-12462&pj_publisherid=214453)** (Codecademy) -- This is one of the best JavaScript courses for beginners and if you don't have any prior experience with JavaScript then I recommend you to join this course. This online and interactive course will teach you the JavaScript fundamentals you'll need for front-end or back-end development.
 * **[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Y5oPHc7V1joH7FRwKX.cdA&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)** (Udemy) -- This is an advanced JavaScript course for experienced web developers. Created by Anthony Alicea this course covers advanced JavaScript concepts like scope, closures, prototypes, 'this', build your own framework, and more.
+  
+## GitHub Repos
 
+* **[JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)** -- 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+* **[You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)** -- A book series on JavaScript
+  
 ## Libraries and Frameworks
 
 * **[Node.js](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript/Node.js)**
