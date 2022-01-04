@@ -1,6 +1,12 @@
 # JavaScript
 
-## Books:
+## Contents
+
+* [Books]()
+* [Courses]()
+* [Libraries and Frameworks]()
+
+## Books
 
 * **[A Smarter Way to Learn JavaScript](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/JavaScript/A_Smarter_Way_to_Learn_JavaScript.pdf)** by Mark Myers is another wonder to look at. According to the author, programmers often witness two problems while learning JavaScript: Retention and Comprehension.
 
@@ -30,7 +36,22 @@
     5. **[You Don’t Know JS: Async & Performance](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/JavaScript/You_Don_39_t_Know_JS_-_Async_amp_Performance.pdf)**
     6. **[You Don’t Know JS: ES6 & Beyond](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/JavaScript/O'Reilly%20-%20You%20Don't%20Know%20JS.%20ES6%20%26%20Beyond.pdf)**
 
-## Libraries and Frameworks:
+## Courses
+  
+* **[JavaScript - The Complete Guide 2022 (Beginner + Advanced)](https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-7jr8xV6FnNWzQhvqlIeJ3g&utm_source=aff-campaign&LSNPUBID=JVFxdTr9V80&utm_medium=udemyads)** (Udemy) -- This is the most comprehensive and modern course you can find on JavaScript - it's based on all my JavaScript knowledge AND teaching experience.
+
+* **[The Complete JavaScript Course 2022: From Zero to Expert!
+](https://www.udemy.com/course/the-complete-javascript-course/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-vpCB3wEuP3h.TgvqwGLUvw&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)** (Udemy) -- This course is created by Jonas Schmedtmann, one of the best Udemy instructors for learning web technologies like HTML, CSS, Web design, and JavaScript and this course is his master price. In this course, you will learn JavaScript by actually developing real-world projects.
+
+* **[HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-h3z1zmo4tW_3IUljMQxDug&siteID=JVFxdTr9V80-h3z1zmo4tW_3IUljMQxDug&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80)** (Coursera) -- This is the best web development course from Coursera and also a very good one to learn JavaScript in detail. In this course, we will learn the basic tools that every web page coder needs to know.
+* **[Modern JavaScript From The Beginning](https://www.udemy.com/course/modern-javascript-from-the-beginning/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-pUH.0mBqWjmn0mG232n98w&utm_source=aff-campaign&LSNPUBID=JVFxdTr9V80&utm_medium=udemyads)** (Udemy) -- When it comes to learning JavaScript, Brad Traversy is one of the best instructors you can get.
+* **[The Modern JavaScript Bootcamp](https://www.udemy.com/course/modern-javascript/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-KvS4fx_ajUtPUcP7eizi9w&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)** (Udemy) -- Andrew Mead is another great instructor you can trust in learning web development concepts.
+* **[JavaScript: The Advanced Concepts](https://www.udemy.com/course/advanced-javascript-concepts/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-rWhJtt_gN6S.ay4FfXqk1g&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)** (Udemy) -- This is an advanced level course and suitable for intermediate and experienced JavaScript developers as you will learn modern advanced JavaScript practices like Higher Order Functions and things like call(), apply(), bind() and be in the top 10% of JavaScript developers.
+* **[JavaScript Fundamentals](https://www.pluralsight.com/courses/javascript-fundamentals?clickid=R6cV3G3YcxyIRFMTIAS19RttUkG1M1w9gzBXyQ0&irgwc=1&mpid=1193463&aid=7010a000001xAKZAA2&utm_medium=digital_affiliate&utm_campaign=1193463&utm_source=impactradius)** (Pluralsight) -- In this course, JavaScript Fundamentals, you'll learn everything you need to know to produce production-quality web applications and web page features.
+* **[Introduction to JavaScript [FREE Codecademy Course]](https://www.codecademy.com/learn/introduction-to-javascript?utm_source=pepperjam&utm_medium=affiliate&utm_term=214453&clickId=3828722781&pj_creativeid=8-12462&pj_publisherid=214453)** (Codecademy) -- This is one of the best JavaScript courses for beginners and if you don't have any prior experience with JavaScript then I recommend you to join this course. This online and interactive course will teach you the JavaScript fundamentals you'll need for front-end or back-end development.
+* **[JavaScript: Understanding the Weird Parts](https://www.udemy.com/course/understand-javascript/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Y5oPHc7V1joH7FRwKX.cdA&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)** (Udemy) -- This is an advanced JavaScript course for experienced web developers. Created by Anthony Alicea this course covers advanced JavaScript concepts like scope, closures, prototypes, 'this', build your own framework, and more.
+
+## Libraries and Frameworks
 
 * **[Node.js](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript/Node.js)**
 
