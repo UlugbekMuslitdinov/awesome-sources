@@ -1,4 +1,4 @@
-# Java
+# [Java](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi07p362K7zAhXEFXcKHZoJAQsQFnoECAIQAQ&url=https%3A%2F%2Fwww.java.com%2F&usg=AOvVaw07au0gJtrW9kRPFYV_4HTb)
 
 **High-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.**
 
@@ -12,7 +12,8 @@ ___
 
 * [Courses](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Java#courses)
 
-* [Useful Links](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Java#useful-links)
+* [GitHub Repos](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Java#github-repos)
+* [Interesting Projects](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Java#interesting-projects)
 
 ___
 
@@ -77,11 +78,15 @@ ___
 * **[Java Programming: Solving Problems with Software](https://click.linksynergy.com/deeplink?id=Qouy7GhEEFU&mid=40328&murl=https://www.coursera.org/learn/java-programming)** (Coursera) - This program is ideal for the expert level and intermediate attendees who are looking for improving their skills in problem-solving in Java language. Also, this program intends to deliver knowledge on design algorithms as well as develop and debug programs accordingly.
 
 * **[Object Oriented Programming in Java](https://click.linksynergy.com/deeplink?id=Qouy7GhEEFU&mid=40328&murl=https://www.coursera.org/learn/object-oriented-java)** (Coursera) - Coursera has introduced this new course specifically for intermediate to expert level attendees. This program is for those software developers who have experience in programming languages such as Python, C, JavaScript, and more.
+* **[Java for Beginners [Russian]](https://www.youtube.com/playlist?list=PLZqgWWF4O-zgDLDBMva788aJf_vQ9GKJv)**
 
 ___
 
-## Useful Links
+## GitHub Repos
 
-* **[Java Official Website](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi07p362K7zAhXEFXcKHZoJAQsQFnoECAIQAQ&url=https%3A%2F%2Fwww.java.com%2F&usg=AOvVaw07au0gJtrW9kRPFYV_4HTb)**
+* **[Java Design Patterns](https://github.com/iluwatar/java-design-patterns)** -- Design patterns implemented in Java
 
-* **[Awesome Java](https://github.com/akullpp/awesome-java#readme)**
+
+## Interesting Projects
+
+* **[Telegram Bot on Java [Russian]](https://www.youtube.com/playlist?list=PLHkGizioHWF2a5mesJC7w3_9EYpaRBJJq)**

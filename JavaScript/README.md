@@ -4,7 +4,7 @@
 
 * [Books](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript#books)
 * [Courses](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript#courses)
-* [GitHub Repos]()
+* [GitHub Repos](https://www.youtube.com/playlist?list=PLZqgWWF4O-zgDLDBMva788aJf_vQ9GKJv)
 * [Libraries and Frameworks](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/JavaScript#libraries-and-frameworks)
 
 ## Books
