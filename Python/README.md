@@ -1,4 +1,7 @@
 # Python:
+
+![Python img](https://media.proglib.io/wp-uploads/2018/09/ciwlCWa.png)
+
 ## Books:
 * **[Automate the boring stuff with Python](https://github.com/UlugbekMuslitdinov/awesome-sources/blob/main/Python/Automate%20the%20Boring%20Stuff%20with%20Python.pdf)** is another great guide to learning and using Python in
 real-world settings
