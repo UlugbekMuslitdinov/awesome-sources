@@ -28,6 +28,7 @@ It is suitable for everyone who is finding sources to make their coding live eas
 * **[Kubernetes](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Kubernetes)**
 * **[Python](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Python)**
   * **[Django](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Python/Django)**
+  * **[Pandas](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Python/Pandas)**
   * **[PyTorch](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Python/PyTorch)**
 * **[Swift](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Swift)**
 * **[Terraform](https://github.com/UlugbekMuslitdinov/awesome-sources/tree/main/Terraform)**
